@@ -63,6 +63,8 @@ This is a simple Node.js web application that allows users to upload, download, 
 - **Replace**: Upload a new file to replace an existing file in the bucket.
 - **Delete**: Delete any file from the bucket by clicking the "Delete" button.
 
+  ![Website_display](view.png)
+
 ## Project Structure
 
 ```plaintext
